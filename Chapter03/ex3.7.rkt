@@ -34,4 +34,3 @@
 ((paul-acc 'rosebud 'withdraw) 10)
 ((peter-acc 'open-sesame 'withdraw) 10)
 
-
